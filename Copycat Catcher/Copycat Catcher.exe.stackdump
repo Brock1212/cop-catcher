@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=6C6939ED
+eax=800844E0 ebx=00000000 ecx=0000034C edx=FFFFFCB0 esi=00000000 edi=00404174
+ebp=69746E65 esp=0028A870 program=C:\Users\Brock\Programs\Copycat Catcher\Debug\Copycat Catcher.exe, pid 8312, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace
